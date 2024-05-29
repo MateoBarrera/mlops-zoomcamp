@@ -1,6 +1,0 @@
-artifact_location: /home/mateo/Escritorio/Proyectos/mlops-zoomcamp/02-experiment-traking/02-experiment-traking/mlflow.db/492000004112917738
-creation_time: 1717004053397
-experiment_id: '492000004112917738'
-last_update_time: 1717004053397
-lifecycle_stage: active
-name: 02-experiment-tracking-autolog
